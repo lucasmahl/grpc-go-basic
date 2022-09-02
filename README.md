@@ -29,7 +29,7 @@ $ go run client/client.go
 
 É para ser mostrado um log na tela, como este:
 ```bash
-$ Getting feature for point (409146138, -746188906)
+Getting feature for point (409146138, -746188906)
     name:"Berkshire Valley Management Area Trail, Jefferson, NJ, USA" location:<latitude:409146138 longitude:-746188906 >
     Getting feature for point (0, 0)
     location:<>
